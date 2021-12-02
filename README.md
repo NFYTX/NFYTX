@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UzumakiKushina1
+- 👋 Hi, I’m @NFYTX
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript 
 
