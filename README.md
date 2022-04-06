@@ -5,7 +5,8 @@ profile = {
    "from": "Indonesia"
 }
 print("NFYTX".center(17,"="))
-print(profile)
+for k, v in profile.items():
+  print(f"{k}: {v}")
 ```
 ```py
 fav_lang = ["Python", "Javascript", "PHP"]
